@@ -1,8 +1,8 @@
 # STROKE.IA - Uma ferramenta para auxílio na classificação de pacientes em relação ao AVC
 
-O Stroke.IA é um sistema inteligente baseado em inteligência artificial, desenvolvido para
+O Stroke.IA é uma ferramenta inteligente baseada em inteligência artificial, desenvolvida para
 auxiliar no diagnóstico de pacientes que possam vir a sofrer AVC, em especial na prevenção de
-fatores de risco e sinais indicativos. Ele utiliza algoritmos avançados para analisar dados e auxiliar os
+fatores de risco e sinais indicativos. Utiliza algoritmos avançados para analisar dados e auxiliar os
 profissionais de saúde a classificarem a probabilidade de um paciente sofrer um AVC.
 
 # Objetivos
